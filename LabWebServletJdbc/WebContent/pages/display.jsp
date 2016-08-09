@@ -9,9 +9,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link rel="stylesheet" type="text/css" href="<c:url value="/css/table.css" />" />
-<title>Display</title>
+
+<title>Display Products</title>
 </head>
 <body>
+
+<h1>安安</h1>
 
 <h3>Select Product Table Result : ${fn:length(select)} row(s) selected</h3>
 
