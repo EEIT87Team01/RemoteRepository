@@ -8,13 +8,5 @@
 </head>
 <body>
 
-<p>good</p>
-
-
-<p>hahahaha<p>
-
-
-
-
 </body>
 </html>

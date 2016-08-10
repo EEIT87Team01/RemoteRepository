@@ -4,10 +4,9 @@
 
 		    maxActive="100" maxIdle="30" maxWait="10000"
 
-		    username="sa" password="sa123456"
 
 
-
+		    
 
 		    driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
 		    url="jdbc:sqlserver://localhost:1433;database=java"/>

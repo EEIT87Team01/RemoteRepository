@@ -23,6 +23,37 @@
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
+<table style="border:1px solid green">
+	<thead>
+		<tr>
+			<th>col1</th>
+			<th>col2</th>
+			<th>col3</th>
+			<th>col4</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>a</td>
+			<td>b</td>
+			<td>c</td>
+			<td>d</td>
+		</tr>
+		<tr>
+			<td>a</td>
+			<td>b</td>
+			<td>c</td>
+			<td>d</td>
+		</tr>
+		<tr>
+			<td>a</td>
+			<td>b</td>
+			<td>c</td>
+			<td>d</td>
+		</tr>
+	</tbody>
+
+
 
 <table>
 <tr>
@@ -30,6 +61,7 @@
 <span>456</span>
 </td>
 </tr>
+
 </table>
 
 <input type="button" value="submit" id="submitBtn"/>
