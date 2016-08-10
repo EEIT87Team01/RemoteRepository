@@ -8,7 +8,9 @@
 
 <link rel="stylesheet" type="text/css" href="<c:url value="/css/main.css" />" />
 
+
 <title>Product</title>
+
 <script type="text/javascript" src="<c:url value="/js/jquery-1.9.1.js" />"></script>
 <script type="text/javascript" src="<c:url value="/js/json2.js" />"></script>
 <script type="text/javascript">
