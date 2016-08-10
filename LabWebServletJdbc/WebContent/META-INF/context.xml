@@ -6,9 +6,7 @@
 
 		    username="sa" password="sa123456"
 
-		    username="sa" password="P@ssw0rd"
 
-		    maxActive="100" maxIdle="30" maxWait="10000"
 
 
 		    driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
