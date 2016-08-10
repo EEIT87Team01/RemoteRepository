@@ -4,9 +4,7 @@
 
 		    maxActive="100" maxIdle="30" maxWait="10000"
 
-		    
 
-		    username="sa" password="P@ssw0rd"
 
 		    
 
