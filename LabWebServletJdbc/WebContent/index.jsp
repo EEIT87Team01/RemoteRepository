@@ -16,5 +16,16 @@
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
 
+<table>
+<tr>
+<td>
+<span>456</span>
+</td>
+</tr>
+</table>
+<button>789</button>
+<p>123</p>
+
+
 </body>
 </html>
