@@ -13,6 +13,7 @@
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+
 <table>
 <tr>
 <td>
@@ -22,6 +23,8 @@
 </table>
 <button>789</button>
 <p>123</p>
+
+
 
 </body>
 </html>
