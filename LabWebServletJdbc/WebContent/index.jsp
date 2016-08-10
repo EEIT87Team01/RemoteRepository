@@ -11,6 +11,7 @@
 
 <h3>test, Welcome ${user.email}</h3>
 
+<h1>87</h1>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
