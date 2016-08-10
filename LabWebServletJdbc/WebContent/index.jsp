@@ -5,6 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Home test2</title>
 </head>
 <body>
@@ -13,6 +14,41 @@
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+=======
+<title>Home</title>
+</head>
+<body>
+
+<h3>Welcome ${user.email}</h3>
+
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<table style="border:1px solid green">
+	<thead>
+		<tr>
+			<th>col1</th>
+			<th>col2</th>
+			<th>col3</th>
+			<th>col4</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>a</td>
+			<td>b</td>
+			<td>c</td>
+			<td>d</td>
+		</tr>
+		<tr>
+			<td>a</td>
+			<td>b</td>
+			<td>c</td>
+			<td>d</td>
+		</tr>
+	</tbody>
+</table>
+<input type="button" value="submit" id="submitBtn"/>
+
 
 </body>
 </html>
