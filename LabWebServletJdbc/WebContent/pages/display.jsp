@@ -9,6 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link rel="stylesheet" type="text/css" href="<c:url value="/css/table.css" />" />
+
 <title>Display Products</title>
 </head>
 <body>
