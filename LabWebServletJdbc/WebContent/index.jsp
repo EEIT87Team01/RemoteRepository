@@ -13,6 +13,15 @@
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<table>
+<tr>
+<td>
+<span></span>
+</td>
+</tr>
+</table>
 <button></button>
+<p></p>
+
 </body>
 </html>
